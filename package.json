@@ -1,0 +1,19 @@
+{
+  "name": "deploy_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-muller-aidalinfo/deploy_html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-muller-aidalinfo/deploy_html/issues"
+  },
+  "homepage": "https://github.com/leo-muller-aidalinfo/deploy_html#readme"
+}
