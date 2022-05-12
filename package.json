@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leo-muller-aidalinfo/deploy_html/issues"
   },
-  "homepage": "https://github.com/leo-muller-aidalinfo/deploy_html#readme"
+  "homepage": "https://github.com/leo-muller-aidalinfo/deploy_html#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
