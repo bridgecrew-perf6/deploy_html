@@ -7,6 +7,4 @@ const createIndexFile = () => {
     fs.writeFileSync('build/index.html', 'Hello world');
 };
 
-createIndexFile();
-
 module.exports = createIndexFile;
